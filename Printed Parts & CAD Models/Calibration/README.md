@@ -10,15 +10,3 @@ Adjust the scale in the slicer until the printed part measures 100mm in length a
 example: Printing the calibration piece at 100.5% yields a measured printed part of 100x30mm; use 100.5% to scale all other printed parts by X/Y/Z in the slicer.
 
 NOTE: The 3mf files in the **\#Pre-Sliced Plates folder** default to 101% scale.  This may or may not be appropriate for your printer!  Select all the parts and change the scale to the scale percentage you determined above before slicing.
-
-# Directory
-## CAD Files
-Exactly what it says - these are the CAD files of the Positron V3.2
-
-## Current Release Printed Parts
-If you wish to build a stock Positron, this is how you do it.
-
-## Experimental Release Printed Parts
-These are various parts in the stage of testing, we are experimenting with these as potential Release Candidates.
-
-If testing goes well, these will likely be adopted as official design revisions.
